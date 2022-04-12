@@ -161,7 +161,7 @@ class _DestinationScreenState extends State<DestinationScreen> {
                                       Text(
                                         '\Rp${activity.price}',
                                         style: TextStyle(
-                                          fontSize: 22.0,
+                                          fontSize: 18.0,
                                           fontWeight: FontWeight.w600,
                                         ),
                                       ),
